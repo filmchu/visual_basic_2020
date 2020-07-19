@@ -1,0 +1,12 @@
+C:\Users\Lenovo-04\AppData\Local\Temporary Projects\ep4-2\bin\Debug\ep4-2.exe.config
+D:\chutima puttachanya\ep4-2\ep4-2\bin\Debug\ep4-2.exe.config
+D:\chutima puttachanya\ep4-2\ep4-2\bin\Debug\ep4-2.exe
+D:\chutima puttachanya\ep4-2\ep4-2\bin\Debug\ep4-2.pdb
+D:\chutima puttachanya\ep4-2\ep4-2\bin\Debug\ep4-2.xml
+D:\chutima puttachanya\ep4-2\ep4-2\obj\Debug\ep4-2.vbprojResolveAssemblyReference.cache
+D:\chutima puttachanya\ep4-2\ep4-2\obj\Debug\ep4_2.Form1.resources
+D:\chutima puttachanya\ep4-2\ep4-2\obj\Debug\ep4_2.Resources.resources
+D:\chutima puttachanya\ep4-2\ep4-2\obj\Debug\ep4-2.vbproj.GenerateResource.Cache
+D:\chutima puttachanya\ep4-2\ep4-2\obj\Debug\ep4-2.exe
+D:\chutima puttachanya\ep4-2\ep4-2\obj\Debug\ep4-2.xml
+D:\chutima puttachanya\ep4-2\ep4-2\obj\Debug\ep4-2.pdb

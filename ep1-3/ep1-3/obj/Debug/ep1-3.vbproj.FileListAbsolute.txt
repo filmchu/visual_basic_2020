@@ -1,0 +1,10 @@
+D:\chutima puttachanya\ep1-3\ep1-3\bin\Debug\ep1-3.exe.config
+D:\chutima puttachanya\ep1-3\ep1-3\bin\Debug\ep1-3.exe
+D:\chutima puttachanya\ep1-3\ep1-3\bin\Debug\ep1-3.pdb
+D:\chutima puttachanya\ep1-3\ep1-3\bin\Debug\ep1-3.xml
+D:\chutima puttachanya\ep1-3\ep1-3\obj\Debug\WindowsApplication1.Form1.resources
+D:\chutima puttachanya\ep1-3\ep1-3\obj\Debug\WindowsApplication1.Resources.resources
+D:\chutima puttachanya\ep1-3\ep1-3\obj\Debug\ep1-3.vbproj.GenerateResource.Cache
+D:\chutima puttachanya\ep1-3\ep1-3\obj\Debug\ep1-3.exe
+D:\chutima puttachanya\ep1-3\ep1-3\obj\Debug\ep1-3.xml
+D:\chutima puttachanya\ep1-3\ep1-3\obj\Debug\ep1-3.pdb

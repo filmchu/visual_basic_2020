@@ -1,0 +1,11 @@
+D:\chutima puttachanya\ep1\ep1\bin\Debug\ep1.exe.config
+D:\chutima puttachanya\ep1\ep1\bin\Debug\ep1.exe
+D:\chutima puttachanya\ep1\ep1\bin\Debug\ep1.pdb
+D:\chutima puttachanya\ep1\ep1\bin\Debug\ep1.xml
+D:\chutima puttachanya\ep1\ep1\obj\Debug\ep1.vbprojResolveAssemblyReference.cache
+D:\chutima puttachanya\ep1\ep1\obj\Debug\WindowsApplication1.Form1.resources
+D:\chutima puttachanya\ep1\ep1\obj\Debug\WindowsApplication1.Resources.resources
+D:\chutima puttachanya\ep1\ep1\obj\Debug\ep1.vbproj.GenerateResource.Cache
+D:\chutima puttachanya\ep1\ep1\obj\Debug\ep1.exe
+D:\chutima puttachanya\ep1\ep1\obj\Debug\ep1.xml
+D:\chutima puttachanya\ep1\ep1\obj\Debug\ep1.pdb
